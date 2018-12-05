@@ -6723,12 +6723,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/musajallow/first_module.git",
-                "reference": "5d6438d7f9697dff76c46e764848a31d76d3e93f"
+                "reference": "4b9701b0dc1f1f03a23230fe325dbb52d5f7ba17"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/musajallow/first_module/zipball/5d6438d7f9697dff76c46e764848a31d76d3e93f",
-                "reference": "5d6438d7f9697dff76c46e764848a31d76d3e93f",
+                "url": "https://api.github.com/repos/musajallow/first_module/zipball/4b9701b0dc1f1f03a23230fe325dbb52d5f7ba17",
+                "reference": "4b9701b0dc1f1f03a23230fe325dbb52d5f7ba17",
                 "shasum": ""
             },
             "type": "magento2-module",
@@ -6743,10 +6743,10 @@
             ],
             "description": "First test module for Magento ",
             "support": {
-                "source": "https://github.com/musajallow/first_module/tree/master",
+                "source": "https://github.com/musajallow/first_module/tree/0.0.2",
                 "issues": "https://github.com/musajallow/first_module/issues"
             },
-            "time": "2018-12-05T09:23:19+00:00"
+            "time": "2018-12-05T14:55:27+00:00"
         },
         {
             "name": "oyejorge/less.php",
