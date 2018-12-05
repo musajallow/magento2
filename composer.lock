@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "733935c89810fd8c481b8ebc19c65af5",
+    "content-hash": "a95d7570c594a11266766cddb3841953",
     "packages": [
         {
             "name": "amzn/amazon-pay-and-login-with-amazon-core-module",
@@ -6718,6 +6718,37 @@
             "time": "2018-11-05T09:00:11+00:00"
         },
         {
+            "name": "moses/first-module",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/musajallow/first_module.git",
+                "reference": "5d6438d7f9697dff76c46e764848a31d76d3e93f"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/musajallow/first_module/zipball/5d6438d7f9697dff76c46e764848a31d76d3e93f",
+                "reference": "5d6438d7f9697dff76c46e764848a31d76d3e93f",
+                "shasum": ""
+            },
+            "type": "magento2-module",
+            "autoload": {
+                "files": [
+                    "registration.php"
+                ]
+            },
+            "license": [
+                "OSL-3.0",
+                "AFL-3.0"
+            ],
+            "description": "First test module for Magento ",
+            "support": {
+                "source": "https://github.com/musajallow/first_module/tree/master",
+                "issues": "https://github.com/musajallow/first_module/issues"
+            },
+            "time": "2018-12-05T09:23:19+00:00"
+        },
+        {
             "name": "oyejorge/less.php",
             "version": "v1.7.0.14",
             "source": {
@@ -12513,9 +12544,10 @@
         }
     ],
     "aliases": [],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "stability-flags": {
         "composer/composer": 15,
+        "moses/first-module": 20,
         "phpmd/phpmd": 0
     },
     "prefer-stable": false,
